@@ -1,4 +1,4 @@
-public class AddTwoIntegers {
+public class AdddualIntegers {
 
     public static void main(String[] args) {
         
